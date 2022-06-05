@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/learning-GIT/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/Rajkatie.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/learning-GIT/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=4&branchName=master)
+
 (https://dev.azure.com/CloudPattern/Learning%20CoreMVC/_apis/build/status/Rajkatie.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/CloudPattern/Learning%20CoreMVC/_build/latest?definitionId=4&branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
